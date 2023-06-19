@@ -9,6 +9,9 @@ class Config(object):
     # Get these values from my.telegram.org
     # Array to store users who are authorized to use the bot
     AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "1761465389").split())
+    # MongoDB information
+    DATABASE_URI = environ['mongodb+srv://kamrulhasan913406:kamrulhasan913406@cluster0.i56slcw.mongodb.net/?retryWrites=true&w=majority']
+    DATABASE_NAME = environ['kamrulhasan913406']
     # the download location, where the HTTP Server runs
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     # Telegram maximum file upload size

@@ -29,4 +29,4 @@ class Config(object):
     # watermark file
     DEF_WATER_MARK_FILE = "@KHCloudFile"
     #Admin id is stored in 
-    LAZY_DEVELOPER = set(int(x) for x in os.environ.get("1761465389", "").split())
+    LAZY_DEVELOPER = set(int(x) for x in os.environ.get("Admin", "1761465389").split())

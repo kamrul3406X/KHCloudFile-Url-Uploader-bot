@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/efdf5689646da738eb787.jpg" alt="logo" target="/blank">
+<img src="https://telegra.ph/file/3d73f9cb444cb8140edda.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://telegram.me/LazyDeveloper" target="/blank">BEWAFA Angel-Priya BOT</a></>
